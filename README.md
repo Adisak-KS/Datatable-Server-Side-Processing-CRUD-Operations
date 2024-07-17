@@ -47,18 +47,18 @@ ___
 
 1. หน้าแรก
 
-![index]()
+![index](https://github.com/Adisak-KS/Datatable-Server-Side-Processing-CRUD-Operations/blob/main/previews/01_index.png)
 
 2. เพิ่มข้อมูล
 
-![index]()
+![index](https://github.com/Adisak-KS/Datatable-Server-Side-Processing-CRUD-Operations/blob/main/previews/02_add.png)
 
 
 3. หน้าแก้ไขข้อมูล
 
-![index]()
+![index](https://github.com/Adisak-KS/Datatable-Server-Side-Processing-CRUD-Operations/blob/main/previews/03_edit.png)
 
 
 4. หน้าลบข้อมูล
 
-![index]()
+![index](https://github.com/Adisak-KS/Datatable-Server-Side-Processing-CRUD-Operations/blob/main/previews/04_delete.png)
